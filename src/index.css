@@ -23,7 +23,7 @@ body {
   height: 100vh;
   display: grid;
   grid-template-rows: auto auto 1fr auto;
-  max-width: 470px;
+  /* max-width: 470px; */
 }
 
 h1 {
